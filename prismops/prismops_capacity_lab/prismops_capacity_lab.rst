@@ -93,7 +93,7 @@ Prism Pro的X-FIT引擎还提供了规划未来工作负载的能力，并确定
 
 现在让我们看看如何在资源不足的时候自动生成报告。我们将使用Prism Pro的简单自动化引擎X-Play。
 
-#. 使用搜索栏导航到 **Operations** > **Playbook**页面。
+#. 使用搜索栏导航到 **Operations** > **Playbook** 页面。
 
    .. figure:: images/cap1.png
 
@@ -105,7 +105,7 @@ Prism Pro的X-FIT引擎还提供了规划未来工作负载的能力，并确定
 
    .. figure:: images/cap3.png
 
-#. 选择特定警报策略单选按钮，然后在搜索框中搜索 'runway' 。 从下拉菜单中选择 **Cluster running out of storage Capacity (low runway)** ， **Cluster running out of Memory Capacity (low runway)** ,和 **Cluster running out of CPU Capacity (low runway)** ， 由于这是3个警报，因此我们希望针对存储，内存或CPU运行资源不足的情况下生成报告。
+#. 选择Specific Alert Policies单选按钮，然后在搜索框中搜索 'runway' 。 从下拉菜单中选择 **Cluster running out of storage Capacity (low runway)** ， **Cluster running out of Memory Capacity (low runway)** ,和 **Cluster running out of CPU Capacity (low runway)** ， 由于这是3个警报，因此我们希望针对存储，内存或CPU运行资源不足的情况下生成报告。
 
    .. figure:: images/cap4.png
 
@@ -113,7 +113,7 @@ Prism Pro的X-FIT引擎还提供了规划未来工作负载的能力，并确定
 
    .. figure:: images/cap5.png
 
-#. 在这种情况下，警报源实体将是生成警报的群集。 您也可以根据需要更改Runway Period。
+#. 在这种情况下，Alerts Matching Central:Source Entity将是警报生成的群集。 您也可以根据需要更改Runway Period。
 
    .. figure:: images/cap6.png
 
