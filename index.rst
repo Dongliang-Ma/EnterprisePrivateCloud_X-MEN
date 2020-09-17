@@ -6,11 +6,11 @@
    :name: _enterprise_privatecloud
    :hidden:
 
-   dayinlife/dayinlife
+   #dayinlife/dayinlife
    prismops/prismops_capacity_lab/prismops_capacity_lab
    prismops/prismops_rightsize_lab/prismops_rightsize_lab
-   files/files
-   flow_secure_fiesta/flow_secure_fiesta
+   #files/files
+   #flow_secure_fiesta/flow_secure_fiesta
 ..   beam_cost_governance/beam_cost_governance
 
 .. toctree::
