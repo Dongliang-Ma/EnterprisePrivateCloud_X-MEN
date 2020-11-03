@@ -2,7 +2,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 企业私有云
+   :caption: Prism Pro
    :name: _enterprise_privatecloud
    :hidden:
 
